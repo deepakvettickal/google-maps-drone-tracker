@@ -2,4 +2,6 @@ A simple react app to display the movement of a delivery drone between two locat
 Made with react, google maps api, and firebase.
 
 
-Clone the repository, and run _npm install && npm start _ to start the app.
+Clone the repository, and run 
+$ npm install && npm start  
+to start the app.
