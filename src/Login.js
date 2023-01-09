@@ -38,7 +38,7 @@ const Login = ({setAuth}) =>{
     }
 
     }).catch((error) => {
-        alert(error.message);
+        console.log('sign in error'. error.message);
         const errorCode = error.code;
         const errorMessage = error.message;
         const email = error.customData.email;
