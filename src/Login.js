@@ -7,12 +7,12 @@ import { initializeApp } from "firebase/app";
 import { getAuth, GoogleAuthProvider, signInWithPopup, onAuthStateChanged } from "firebase/auth";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCejK9_WsSEvlow6GVCRkGv3yRb9Ii1W8A",
-  authDomain: "memories-2639d.firebaseapp.com",
-  projectId: "memories-2639d",
-  storageBucket: "memories-2639d.appspot.com",
-  messagingSenderId: "949535918262",
-  appId: "1:949535918262:web:5be335bf3e1e41b341be17"
+  apiKey: "AIzaSyAREzPUGyI4oIxTAaKxKr_7H6uowrJ38bo",
+  authDomain: "drone-trac.firebaseapp.com",
+  projectId: "drone-trac",
+  storageBucket: "drone-trac.appspot.com",
+  messagingSenderId: "782514598192",
+  appId: "1:782514598192:web:ea23d8ccbfa05be919d8f5"
 };
 
 const app = initializeApp(firebaseConfig);
